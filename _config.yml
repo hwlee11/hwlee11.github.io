@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcom to Hyowon Lee's webpage"
+title                    : "StudyLog"
 title_separator          : "-"
 name                     : "hwlee11"
 description              : "blog test."
@@ -107,10 +107,10 @@ analytics:
 # Site Author
 author:
   name             : "hwlee11"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a student of the AIlab."
+  avatar           : "/assets/images/MVIMG_20200116_094754.jpg"
+  bio              : "Researcher of speech recognition."
   location         : "Korea"
-  email            :
+  email            : "hwl@ai.korea.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
